@@ -1,2 +1,0 @@
-git remote add orin  https://github.com/engstar/itest.git
-git push origin master
